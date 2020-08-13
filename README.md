@@ -7,8 +7,10 @@ Please see the wiki page for links to data and example notebooks that we can use
 
 # Project 1: Visualizing an invisible boundary: locating the shelfbreak front in the northern Mid-Atlantic Bight
 
-## Mentor
-Stace Beaulieu, Information Manager for Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER)
+## Mentors
+Stace Beaulieu, Woods Hole Oceanographic Institution, Information Manager for Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) (https://nes-lter.whoi.edu/)
+
+James Munroe, Memorial University of Newfoundland
 
 ## Specific tasks
 
