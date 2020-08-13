@@ -9,6 +9,7 @@ Please see the wiki page for links to data and example notebooks that we can use
 
 ## Mentors
 Stace Beaulieu, Woods Hole Oceanographic Institution, Information Manager for Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) (https://nes-lter.whoi.edu/)
+
 James Munroe, Memorial University of Newfoundland
 
 ## Specific tasks
